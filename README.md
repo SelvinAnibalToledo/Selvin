@@ -12,6 +12,6 @@ Por hacer:
 - Se crea un ambiente virtual e instalan los requerimientos.
 
 Por lo pronto se asume la ejecución con el servidor para desarrollo de django.
-
+Este es un cambio desde UBUNTO
 
 
